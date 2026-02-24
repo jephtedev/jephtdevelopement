@@ -1,35 +1,35 @@
-<p align="center">
-  <img src="assets/images/logo-jephtdevelopment.png" width="200" alt="JephtDevelopment Logo">
-</p>
+<div align="center">
+  <img src="assets/images/logo-jephtdevelopment.png" width="250" alt="JephtDevelopment Logo">
 
-<h1 align="center">JephtDevelopment.site</h1>
-<p align="center"><strong>Plateforme Pédagogique & Hub d’Emploi de Nouvelle Génération</strong></p>
-<p align="center"><em>Création Web & Solutions Informatiques</em></p>
-<p align="center">Former aujourd’hui • Employer demain • Transformer durablement</p>
+  # 🌐 JephtDevelopment.site
+  ### **L’Écosystème Digital : Formation · Emploi · IA**
 
-## 🌍 Présentation
-Plateforme digitale moderne dédiée à la formation professionnelle, innovation numérique et connexion directe avec le marché de l’emploi.
+  [![Status](https://img.shields.io)](https://jephtdevelopment.site)
+  [![AI-Powered](https://img.shields.io)](https://jephtdevelopment.site)
 
-## 🎯 Objectifs
-- Développer des compétences professionnelles
-- Réduire le chômage
-- Connecter talents africains et opportunités globales
-- Utiliser l’IA comme assistant pédagogique et professionnel
+  ---
+</div>
 
-## 🌟 Filières
-- 💻 Informatique & IT  
-- ⚡ Électricité & Énergie  
-- 📊 Comptabilité & Gestion  
-- 🏗 BTP & Génie Civil  
+## 🚀 Mission : Créer l'Excellence Web
+**JephtDevelopment** accompagne les passionnés pour développer les compétences nécessaires à la **création de sites web professionnels**. Notre approche fusionne l'expertise technique et l'assistance par IA pour garantir une employabilité immédiate.
 
-## 🤖 Copilote Intelligent
-Assistant IA pour accueil, orientation, conseils et support 24/7.
+## 🛠 Stack Technique
 
-## 📂 Structure du projet
-```text
-index.html
-css/
-js/
-assets/
-server/
-README.md
+| Frontend | Backend | IA & Cloud |
+| :--- | :--- | :--- |
+| HTML5 / CSS3 / JS | Node.js / Python | OpenAI API |
+| Tailwind CSS | PostgreSQL | Vercel / GitHub |
+
+## 📂 Structure du Projet
+- `index.html` : Interface principale optimisée SEO.
+- `css/style.css` : Design system moderne et sombre.
+- `js/app.js` : Logique de navigation et interface IA.
+- `assets/` : Ressources graphiques et logo.
+
+## 📝 Inscription & Parcours
+1. **Évaluation IA** : Analyse de votre niveau.
+2. **Apprentissage** : Création de projets réels.
+3. **Certification** : Accès au Hub d'emploi global.
+
+---
+<p align="center"><b>Jepht Development</b> - Former aujourd’hui • Employer demain</p>
