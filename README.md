@@ -1,19 +1,35 @@
-# 🚀 JephtDevelopment.site
-**Plateforme Pédagogique & Hub d'Emploi de Nouvelle Génération**
+<p align="center">
+  <img src="assets/images/logo-jephtdevelopment.png" width="200" alt="JephtDevelopment Logo">
+</p>
 
-### 🌟 Vision
-Transformer le paysage éducatif et professionnel en République Démocratique du Congo en offrant des formations aux normes internationales (Informatique, Électricité, Maçonnerie, Comptabilité) connectées directement au marché de l'emploi à Kinshasa et à l'Étranger.
+<h1 align="center">JephtDevelopment.site</h1>
+<p align="center"><strong>Plateforme Pédagogique & Hub d’Emploi de Nouvelle Génération</strong></p>
+<p align="center"><em>Création Web & Solutions Informatiques</em></p>
+<p align="center">Former aujourd’hui • Employer demain • Transformer durablement</p>
 
-### 🛠 Technologies
-- **Frontend :** HTML5, CSS3 (Custom Variables), JavaScript (ES6+)
-- **UX/UI :** Dark Mode natif, Responsive Design, Animations Fluides
-- **Hébergement :** GitHub Pages & Custom Domain
+## 🌍 Présentation
+Plateforme digitale moderne dédiée à la formation professionnelle, innovation numérique et connexion directe avec le marché de l’emploi.
 
-### 📚 Filières Incluses
-- **IT Essentials :** MS Office Pro, Networking (Cisco), Dev & Cybersec.
-- **Énergie :** Électricité Domestique & Solaire Photovoltaïque.
-- **Gestion :** Comptabilité OHADA & Logiciels SAGE.
-- **BTP :** Maçonnerie Moderne & Génie Civil.
+## 🎯 Objectifs
+- Développer des compétences professionnelles
+- Réduire le chômage
+- Connecter talents africains et opportunités globales
+- Utiliser l’IA comme assistant pédagogique et professionnel
 
----
-*Développé avec passion par [JephtDevelopment](https://jephtdevelopement.github.io)*
+## 🌟 Filières
+- 💻 Informatique & IT  
+- ⚡ Électricité & Énergie  
+- 📊 Comptabilité & Gestion  
+- 🏗 BTP & Génie Civil  
+
+## 🤖 Copilote Intelligent
+Assistant IA pour accueil, orientation, conseils et support 24/7.
+
+## 📂 Structure du projet
+```text
+index.html
+css/
+js/
+assets/
+server/
+README.md
